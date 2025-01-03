@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![ffaa3dd's GitHub trophies](https://github-profile-trophy.vercel.app/?username=ffaa3dd&theme=darkhub)
 
 ## 📈 Top Languages
-python
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffaa3dd&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
 ```
